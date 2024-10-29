@@ -14,3 +14,5 @@
 | **Comms**           | **WLAN:** Wi-Fi 802.11 b/g/n, Wi-Fi Direct<br>**Bluetooth:** v4.2, A2DP, LE<br>**GPS:** GPS, GLONASS<br>**NFC:** Yes (ATU-L11 only)<br>**USB:** microUSB 2.0 |
 | **Battery**         | **Type:** Li-Ion 3000 mAh, non-removable                                    |
 | **Misc**            | **Colors:** Black, Gold, Blue<br>**Models:** ATU-L11, ATU-LX3, ATU-L21, ATU-L22<br>**Price:** About 150 EUR |
+
+![ATU-1](https://images.tokopedia.net/img/cache/700/product-1/2018/9/28/3221857/3221857_d77718ee-2dfa-428c-8fd7-136d21b88254_422_421.jpg "ATU-1")
